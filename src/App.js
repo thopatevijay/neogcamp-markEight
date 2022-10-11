@@ -1,9 +1,10 @@
 import './App.css';
+import Emoji from './components/Emoji';
 
 function App() {
   return (
     <div className="App">
-      <p>starting point</p>
+      <Emoji />
     </div>
   );
 }
